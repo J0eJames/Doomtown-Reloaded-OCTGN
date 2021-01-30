@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Welcome to Deadwood"
+     id="142f4cf2-13c3-b533-ea7a-1ac9bf391c66"
+     gameId="b440d120-025a-4fbe-9f8d-3873acacb37b" 
+     version="1.0.0"
+     gameVersion="1.0.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="CardSet.xsd">
+  <cards>
+		<card id="7f406453-b325-fef4-ad96-837614d12d32" name="Yasmin Tian">
+		         <property name="Rank" value="4" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="108 Righteous Bandits" />
+		         <property name="Keywords" value="Grifter-Blessed 0-Kung Fu 0" />
+		         <property name="Text" value="React, Boot: At the start of the game, you may discard a card to draw a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="af9f5860-085c-bce1-ba5e-b0bda2edfead" name="Dynamite Jacc">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="108 Righteous Bandits" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Resolution, Boot: Ace Jacc to make the opposing posse suffer 2 extra casualties." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="ae7eae00-9a5b-9ddc-6fb9-0d840c195988" name="Bai Yang Chen (Exp.1)">
+		         <property name="Rank" value="8" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="2" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="5" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="108 Righteous Bandits" />
+		         <property name="Keywords" value="Experienced 1-Kung Fu 2" />
+		         <property name="Text" value="Bai Yang Chen cannot have attachments.&amp;#xD;&amp;#xD;While Bai Yang Chen is in a posse, after each shootout play (including passing), remove any modifiers to his bullet rating, set it to 5, and then reduce it by 1 for each card in your hand.&amp;#xD;&amp;#xD;Noon: If you have no ghost rock in your stash, draw a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="05596ed9-ddce-c97d-3930-fea7c8e1bfda" name="Huang Li">
+		         <property name="Rank" value="K" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="6" />
+		         <property name="Upkeep" value="2" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="2" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="108 Righteous Bandits" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="After using Huang Li's Shootout ability:&amp;#xD;• if you booted a Blessed dude, unboot another dude in the shootout.&amp;#xD;• if you booted an Abomination, Huang Li gets +2 bullets.&amp;#xD;• if you booted a Kung Fu dude, boot an opposing dude.&amp;#xD;&amp;#xD;Shootout: Boot your dude (in this shootout) to discard a card and draw a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="a0cb417e-dcd0-c2a9-7537-ee48202c4a26" name="Arthur Dingler">
+		         <property name="Rank" value="A" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Morgan Cattle Co." />
+		         <property name="Keywords" value="Grifter-Mad Scientist 0" />
+		         <property name="Text" value="React, Boot: At the start of the game, look at the top 5 cards of your deck. You may discard them, shuffle them into your deck, or return them to your deck in the same order. Take 1 ghost rock from the bank and add it to the pot for the Gamblin' phase." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="a1d3e0ad-4739-a532-062d-82f6c61e5371" name="Deadwood Dick">
+		         <property name="Rank" value="6" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="6" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="2" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Morgan Cattle Co." />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Cheatin' Resolution: Boot Dick or his Horse to send any number of your dudes with Horses home booted. If your hand is legal, those dudes do not boot." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="78710c1b-4676-3623-84c9-b432a6cf27db" name="Al Swearengen">
+		         <property name="Rank" value="10" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Morgan Cattle Co." />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Noon, Pay 4 Ghost Rock: Al permanently has +1 bullets, +1 influence, is a stud, and loses this ability." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="6c97a47a-0376-0ff9-e49a-6f56cdb128b0" name="Aunt Lou Marchbanks">
+		         <property name="Rank" value="J" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Morgan Cattle Co." />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="While at a location you own, Aunt Lou is a stud." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="6c252509-e466-fcee-3119-1bb7baebb6c4" name="Lew Esquilin">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Fourth Ring" />
+		         <property name="Keywords" value="Grifter-Huckster 0" />
+		         <property name="Text" value="React, Boot At the start of the game, look at the top 6 cards of your deck. You may discard a card from your hand to reveal an Abomination or non-Unique Mystical goods and add it to your play hand. Return the other cards in your deck in the same order." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="901a254e-f7ff-4a40-1877-91b115b851c4" name="Mourning Mist">
+		         <property name="Rank" value="3" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="0" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Fourth Ring" />
+		         <property name="Keywords" value="Abomination" />
+		         <property name="Text" value="Noon, Boot: Ace Mourning Mist to boot a dude at this or an adjacent location." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="2de51c1c-53dd-dad2-8f99-be7705d22c0c" name="Victor Nines de Boré">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Fourth Ring" />
+		         <property name="Keywords" value="Huckster 0" />
+		         <property name="Text" value="Victor has a bonus to his Huckster skill equal to the number of Abominations at his location. This bonus cannot exceed +4." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="92eb3a01-67fa-bd33-c517-919c2e4dbfbf" name="The Angler">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="0" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Fourth Ring" />
+		         <property name="Keywords" value="Abomination" />
+		         <property name="Text" value="Noon: The Angler calls out a dude at his location who has the same value.&amp;#xD;&amp;#xD;Noon: Discard a card to change The Angler's value to that card's value." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="62a8abf6-6eb7-c679-bca7-a153e80ff2f1" name="Sifting Squirrel">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="0" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Eagle Wardens" />
+		         <property name="Keywords" value="Grifter-Shaman 0" />
+		         <property name="Text" value="React, Boot: At the start of the game, you may draw a card and then discard a card. If you discard a Spirit or Technique, draw a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="3f27e644-0f54-49e6-047a-c71835c66579" name="Lewis Grizzly Evans">
+		         <property name="Rank" value="6" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Eagle Wardens" />
+		         <property name="Keywords" value="Kung Fu 1" />
+		         <property name="Text" value="While there are no Weapons in the opposing posse, Lewis is a stud.&amp;#xD;&amp;#xD;While there is another dude in your posse, Lewis has \Shootout, Boot:\ Choose and boot an opposing dude with a lower value. Neither dude contributes to draw hands unless they are the only dude in their posse.\" />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="5fbdc437-6009-a971-209e-c5182daee76f" name="Professor Duncan (Exp.1)">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="6" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="2" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Eagle Wardens" />
+		         <property name="Keywords" value="Experienced 1-Shaman 3" />
+		         <property name="Text" value="While at a location with a Totem, Duncan is a stud.&amp;#xD;&amp;#xD;React: After you play a Totem at Duncan's location, draw a card if it is the only Totem with that name at that location." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="af7e1995-b166-afb8-3c95-e42ce1202214" name="Yiska">
+		         <property name="Rank" value="10" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="5" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="0" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Eagle Wardens" />
+		         <property name="Keywords" value="Shaman 0" />
+		         <property name="Text" value="While Yiska has a Sidekick, he has +2 bullets." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="5610ac99-b697-4339-5c8c-28f97ee1adab" name="Dr. JT Goodenough">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="0" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Law Dogs" />
+		         <property name="Keywords" value="Grifter-Mad Scientist 0" />
+		         <property name="Text" value="React, Boot: At the start of the game, search your deck for two different non-Unique Gadget Weapons and reveal them. Your opponent chooses one to discard. Attach the other to one of your dudes, paying its ghost rock cost (without inventing). Discard a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="cf9b8761-598b-da18-9f93-fcb12e3d3305" name="Seth Bullock">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="5" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Law Dogs" />
+		         <property name="Keywords" value="Deputy" />
+		         <property name="Text" value="While your draw hand is cheatin', Seth lowers your hand rank by his bullet rating if he is in your posse.&amp;#xD;&amp;#xD;React: After you use a Cheatin' Resolution ability on an action card, unboot Seth." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="5d1c49a4-04ce-829c-827e-cadbb3a7b73a" name="Clint Ramsey">
+		         <property name="Rank" value="10" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="6" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="2" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Law Dogs" />
+		         <property name="Keywords" value="Experienced 1-Deputy" />
+		         <property name="Text" value="Repeat React: After your opponent reveals a cheatin' hand, unboot Clint." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="aeadd047-da69-5cfa-1f22-6d17148ce9ae" name="Mimi The Nun O'Brien">
+		         <property name="Rank" value="J" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="5" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="2" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Law Dogs" />
+		         <property name="Keywords" value="Blessed 1" />
+		         <property name="Text" value="React Before you take casualties, if Mimi is in your posse you may discard a Miracle from your hand to suffer 1 fewer casualties this round. If your hand is legal, you suffer 2 fewer casualties instead." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="2a7769ba-6b0d-a572-8763-d90dea0f540d" name="Sam Bass">
+		         <property name="Rank" value="A" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Sloane Gang" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="While Sam is in your posse, Cheatin' Resolution abilities on action cards cost +1 ghost rock." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="4124c562-75d2-9048-7d96-a5809f1a8f8b" name="Rosaleen Byrne">
+		         <property name="Rank" value="4" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="0" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Sloane Gang" />
+		         <property name="Keywords" value="Grifter-Huckster 0" />
+		         <property name="Text" value="React, Boot: At the start of the game, discard 2 cards from your hand to draw 2 cards." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="11cd6125-a7b1-6191-3082-976aaaa4df84" name="Jack McCall">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="0" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Sloane Gang" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Shootout: If there are more dudes in your posse than in the opposing posse, give Jack 1 bounty to make him a stud." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="d5fd650c-3ddc-ecfe-4643-1d789be938fb" name="Reggie Mallard">
+		         <property name="Rank" value="9" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="5" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="The Sloane Gang" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Reggie has a bullet bonus equal to the number of Hucksters in his posse. This bonus cannot exceed +4." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="06d9e572-5e54-8687-5494-24dd1de43ad1" name="Alferd Packer">
+		         <property name="Rank" value="3" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="2" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="3" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Drifter" />
+		         <property name="Keywords" value="Harrowed" />
+		         <property name="Text" value="While Alferd is in your posse, your opponent gains \Repeat Shootout, Pay 3 Ghost Rock: Alferd joins your posse, under y0our control.\" />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="09bd180d-7864-fe70-6ad0-2e7515bb96db" name="John Aces Radcliffe (Exp.1)">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="2" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Drifter" />
+		         <property name="Keywords" value="Experienced 1-Agent" />
+		         <property name="Text" value="While John has a Gadget Weapon, he is a stud. John cannot trade away his goods.&amp;#xD;&amp;#xD;React: After John enters play, attach a Gadget Weapon from your hand or discard pile to him, paying its ghost rock cost (without inventing). If the Gadget comes from your hand, reduce its cost to 0." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="3904a8a2-f89f-4b94-9cbd-fba078193c46" name="Willa Mae MacGowan (Exp.1)">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="0" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Draw" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Drifter" />
+		         <property name="Keywords" value="Experienced-Ranger" />
+		         <property name="Text" value="Resolution: Discard Willa Mae to send a dude in your posse home. If your opponent's hand is cheatin', unboot that dude." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="492a108e-20e6-ccb0-dabd-fa84e3b6af22" name="New Varney Nosferatu">
+		         <property name="Rank" value="9" />
+		         <property name="Suit" value="Spades" />
+		         <property name="Type" value="Dude" />
+		         <property name="Cost" value="4" />
+		         <property name="Upkeep" value="1" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="3" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Stud" />
+		         <property name="Influence" value="1" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="Drifter" />
+		         <property name="Keywords" value="Abomination" />
+		         <property name="Text" value="If the New Varney Nosferatu is in a Public location at the beginning of High Noon, send it home booted." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="1403e4e0-a795-0f29-0613-d93d3dd76cac" name="Carmichael's Livery">
+		         <property name="Rank" value="A" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="2" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Public-Ranch" />
+		         <property name="Text" value="This deed has +1 production and +1 control points if there is a Horse at this deed." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="760c37f5-495c-c0c0-3fb1-cccdf5ba5099" name="Land Purchase">
+		         <property name="Rank" value="3" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="0" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="0" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Public" />
+		         <property name="Text" value="Controller Noon Job, Boot: Mark this deed. If successful, discard this deed to choose a deed in your discard pile and play it, reducing its cost by 3." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="bb6204fa-a9ce-0e58-6a1c-b78b40dcc050" name="Heath's Curiosity Shoppe">
+		         <property name="Rank" value="4" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="1" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Private" />
+		         <property name="Text" value="Controller Noon, Boot: Discard 2 cards. Choose a non-Unique card in your discard pile that matches the suit of one of the discarded cards and the value of the other discarded card, and put it into your hand." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="eb30c190-0020-6b7f-3bc2-8c614ee43c22" name="The Gem Theater">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="1" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Public-Casino" />
+		         <property name="Text" value="Controller Shootout, Boot: If the shootout is at this deed, each dude in the shootout becomes a draw." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="6267c8b5-1902-7ec7-996e-08d5a6d46386" name="Baird's Debt Collections">
+		         <property name="Rank" value="6" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="0" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Private-Government" />
+		         <property name="Text" value="Each time a deed is played, gain 1 ghost rock.&amp;#xD;&amp;#xD;Controller Noon, Boot: Discard a card from your hand to boot a deed." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="2330545b-8b37-79b4-0328-ca296bf9bbdb" name="Cheyenne Club">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="1" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Private" />
+		         <property name="Text" value="Controller Noon, Boot: Choose a dude at this or an adjacent location. That dude has +1 to each of their skill ratings (the skills are Mad Scientist, Blessed, Huckster, and Shaman)." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="0cd4610e-da05-ad7e-0c58-72c2b063a04b" name="Nuttal &amp;amp; Mann's No. 10 Saloon">
+		         <property name="Rank" value="J" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="1" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Public-Saloon" />
+		         <property name="Text" value="Controller Noon/Shootout, Boot, Pay 1 ghost rock: Boot or unboot a dude at this deed." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="2aa938d0-700a-b09d-d86f-76168659e3f8" name="Winner's Circle Auction House">
+		         <property name="Rank" value="Q" />
+		         <property name="Suit" value="Diamonds" />
+		         <property name="Type" value="Deed" />
+		         <property name="Cost" value="3" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="2" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="1" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Public" />
+		         <property name="Text" value="This deed has +1 control points for each player with a dude at this deed." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="a01b15ac-cbd6-1cd9-dd00-8d7b284bcf12" name="Feathered Friend">
+		         <property name="Rank" value="A" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Goods" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Sidekick" />
+		         <property name="Text" value="Noon, Boot: Choose a dude at this location. Look at a random card in their controller's hand.&amp;#xD;&amp;#xD;Shootout, Boot: Look at a random card in your opponent's hand." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="6d8198e3-9e53-a71f-96e2-572f4588d0bf" name="Bulletproof Vest">
+		         <property name="Rank" value="3" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Goods" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Gadget 4-Attire" />
+		         <property name="Text" value="This dude may not boot to join a posse at an adjacent location.&amp;#xD;&amp;#xD;Resolution, Boot: Discard a card from your hand to have your posse suffer 1 fewer casualties this round." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="b4919c25-2a49-3e0f-8a40-81e822762bd6" name="Pale Horse">
+		         <property name="Rank" value="9" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Goods" />
+		         <property name="Cost" value="2" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Horse" />
+		         <property name="Text" value="Cheatin' Resolution, Boot: You may send an opposing dude without a Horse home booted. If your hand is legal, you suffer X fewer casualties this round, where X is this dude's bullet rating." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="546e285b-0cbf-37a7-d1bb-0ea995aaa194" name="Kinetic Accretion Actualizer">
+		         <property name="Rank" value="K" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Goods" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="1" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="Bonus" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Gadget 7-Weapon" />
+		         <property name="Text" value="Repeat Shootout: Kinetic Accretion Actualizer has an additional +1 bullets until Sundown. You may use this ability once per shootout round." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="d7003ef8-4ef8-e71b-c74e-b24066fb09a4" name="Missed Me!">
+		         <property name="Rank" value="5" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Hex" />
+		         <property name="Text" value="Cheatin' Resolution Hex 5, Boot: Reduce your opponent's hand rank by the total number of Sidekicks and dudes in their posse, to a maximum of 4." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="a7e0d8ac-57c2-eb3a-96f8-2a2396a15400" name="Mark of War">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Hex" />
+		         <property name="Text" value="Noon Hex 7, Boot: This dude's call outs cannot be refused. Discard this Hex." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="a8251ba7-8c5b-24c4-c8dc-902232a43d90" name="We Stand Amazed">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Miracle-Hymn" />
+		         <property name="Text" value="React Miracle X, Boot: When a dude in this shootout is being discarded as a casualty, send that dude home booted instead. X is that dude's grit." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="bfda843d-0401-c178-69fb-770050b61a94" name="Benediction">
+		         <property name="Rank" value="8" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Miracle" />
+		         <property name="Text" value="Noon Miracle 6: Choose another dude at this or an adjacent location. That dude has +2 to each of their skill ratings (the skills are Huckster, Blessed, Shaman, and Mad Scientist). If they do not have a skill, this dude has +1 bullets." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="edc48051-0c84-7e39-a58b-a1c4967ea58e" name="Guiding the Pack">
+		         <property name="Rank" value="6" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Spirit" />
+		         <property name="Text" value="Shootout Spirit 5, Boot: If there are more dudes in your posse than the opposing posse, boot an opposing card. If you succeed by 4 or more, choose one of your dudes. That dude has + bullets." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="13c43387-a154-ff1e-3337-9307e4963453" name="Elk's Protection">
+		         <property name="Rank" value="J" />
+		         <property name="Suit" value="Hearts" />
+		         <property name="Type" value="Spell" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Spirit-Totem" />
+		         <property name="Text" value="Can only attach to a deed.&amp;#xD;&amp;#xD;Noon Spirit 8, Boot: Choose a dude without a Weapon. That dude has +X bullets. X is this deed's printed production.&amp;#xD;&amp;#xD;Shootout Spirit 8, Boot: Choose a dude without a We3apon. That dude has +X bullets. X is this deed's printed production." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="ebb95187-b10a-8325-f853-232330dfffde" name="Get Off My Land!">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="React: After an opposing dude moves to a deed you own, move your dude to that deed from an adjacent location. This card's ghost rock cost is equal to the opposing dude's influence." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="e82a581e-416e-d402-c7d4-5b181d63f586" name="Look What I Found!">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Shootout: Choose a non-Unique Weapon in your discard pile and attach it to a dude in your posse, paying all costs. Boot a Weapon or Sidekick attached to that dude." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="8a075c27-816a-5d5c-17d0-31242624c27a" name="Mantis Pinch">
+		         <property name="Rank" value="2" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Technique" />
+		         <property name="Text" value="Noon Technique: Choose a printed ability on a card at this location. That ability cannot be used.&amp;#xD;&amp;#xD;Shootout Technique: Choose a printed ability on a card at this shootout. That ability cannot be used until after Sundown." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="29c18814-b506-1f60-01c1-19a090b68e94" name="As Nature and God Intended">
+		         <property name="Rank" value="3" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="1" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="Headline" />
+		         <property name="Text" value="Shootout: All Weapons lose their bullet bonuses, traits, and Shootout abilities until the end of this round of the shootout. Dudes with Kung Fu are studs until the end of this round of the shootout." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="fda6ed07-0c54-3c98-12d0-3f0633660f0c" name="Play for Blood">
+		         <property name="Rank" value="4" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Resolution: If draw hand ranks are tied, increase your draw hand rank by 1.&amp;#xD;&amp;#xD;Noon: Draw a card and discard a card." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="c554e59e-cf2d-ac51-4aa3-23dfe7215be1" name="Bad Beat">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Cheatin' Resolution: Discard the cheatin' player's draw hand and replace it with the top five cards of their deck. If the replacement draw hand is cheatin', take up to 2 ghost rock from that player." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="c0d9a601-ace8-dc9f-6a89-e35a930e578e" name="Fallen Star">
+		         <property name="Rank" value="7" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="React: After your dude is chosen by an opponent's Shootout ability, boot a dude in your posse that could have been chosen. The booted dude is chosen instead." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="42f712d9-5cc9-c63e-3cc6-b1ebd6262071" name="Masonic Augment">
+		         <property name="Rank" value="8" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Noon/Shootout: Discard a spell you own and control to choose one of your dudes. That dude has +1 bullets and +1 influence. If the spell was unbooted, gain ghost rock equal to the spell's printed cost." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="54deff78-5547-d9b7-8ff8-be7a1e638e82" name="Swagger">
+		         <property name="Rank" value="10" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Noon: Move your unbooted dude to an adjacent location. That dude has +1 influence for controlling deeds until the end of the next Upkeep phase." />
+		         <property name="Instructions" value="" />
+      </card>
+		<card id="f3ba1c52-e8e2-c6a5-632d-9054c26b021b" name="Vamoosin'">
+		         <property name="Rank" value="J" />
+		         <property name="Suit" value="Clubs" />
+		         <property name="Type" value="Action" />
+		         <property name="Cost" value="0" />
+		         <property name="Upkeep" value="" />
+		         <property name="Production" value="" />
+		         <property name="Bullets" value="" />
+		         <property name="Bullet Bonus" value="" />
+		         <property name="Draw Type" value="" />
+		         <property name="Influence" value="" />
+		         <property name="Control" value="" />
+		         <property name="Outfit" value="" />
+		         <property name="Keywords" value="" />
+		         <property name="Text" value="Shootout: Send a wanted dude home. This card's ghost rock cost is equal to the wanted dude's influence." />
+		         <property name="Instructions" value="" />
+      </card>
+		</cards>
+	</set>
